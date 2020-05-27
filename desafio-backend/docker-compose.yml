@@ -1,0 +1,11 @@
+version: '2.2'
+
+services:
+  desafio-backend:
+    container_name: desafio-backend
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    ports:
+    - 8080:8080
+    - 9990:9990
