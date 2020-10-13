@@ -14,7 +14,7 @@
     <properties>
         <lombok.version>1.18.12</lombok.version>
         <javaee.api.version>8.0</javaee.api.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <jsonwebtoken.version>0.9.1</jsonwebtoken.version>
         <javax.servlet-api.version>4.0.1</javax.servlet-api.version>
         <hibernate.version>5.4.16.Final</hibernate.version>
