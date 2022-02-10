@@ -17,7 +17,7 @@
         <junit.version>4.12</junit.version>
         <jsonwebtoken.version>0.9.1</jsonwebtoken.version>
         <javax.servlet-api.version>4.0.1</javax.servlet-api.version>
-        <hibernate.version>5.4.16.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
 
         <maven.compiler.target>8</maven.compiler.target>
         <maven.compiler.source>8</maven.compiler.source>
